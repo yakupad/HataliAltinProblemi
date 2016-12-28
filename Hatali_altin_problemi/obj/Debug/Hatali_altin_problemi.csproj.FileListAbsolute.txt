@@ -1,0 +1,21 @@
+C:\Users\Merve\Desktop\I_W_W3SCHOOL\Hatali_altin_problemi\Hatali_altin_problemi\bin\Debug\Hatali_altin_problemi.exe.config
+C:\Users\Merve\Desktop\I_W_W3SCHOOL\Hatali_altin_problemi\Hatali_altin_problemi\bin\Debug\Hatali_altin_problemi.exe
+C:\Users\Merve\Desktop\I_W_W3SCHOOL\Hatali_altin_problemi\Hatali_altin_problemi\bin\Debug\Hatali_altin_problemi.pdb
+C:\Users\Merve\Desktop\I_W_W3SCHOOL\Hatali_altin_problemi\Hatali_altin_problemi\obj\Debug\Hatali_altin_problemi.csprojResolveAssemblyReference.cache
+C:\Users\Merve\Desktop\I_W_W3SCHOOL\Hatali_altin_problemi\Hatali_altin_problemi\obj\Debug\Hatali_altin_problemi.Form1.resources
+C:\Users\Merve\Desktop\I_W_W3SCHOOL\Hatali_altin_problemi\Hatali_altin_problemi\obj\Debug\Hatali_altin_problemi.Properties.Resources.resources
+C:\Users\Merve\Desktop\I_W_W3SCHOOL\Hatali_altin_problemi\Hatali_altin_problemi\obj\Debug\Hatali_altin_problemi.csproj.GenerateResource.Cache
+C:\Users\Merve\Desktop\I_W_W3SCHOOL\Hatali_altin_problemi\Hatali_altin_problemi\obj\Debug\Hatali_altin_problemi.exe
+C:\Users\Merve\Desktop\I_W_W3SCHOOL\Hatali_altin_problemi\Hatali_altin_problemi\obj\Debug\Hatali_altin_problemi.pdb
+C:\Users\beritan\Desktop\Hatali_altin_problemi\Hatali_altin_problemi\bin\Debug\Hatali_altin_problemi.exe.config
+C:\Users\beritan\Desktop\Hatali_altin_problemi\Hatali_altin_problemi\obj\Debug\Hatali_altin_problemi.exe
+C:\Users\beritan\Desktop\Hatali_altin_problemi\Hatali_altin_problemi\obj\Debug\Hatali_altin_problemi.pdb
+C:\Users\beritan\Desktop\Hatali_altin_problemi\Hatali_altin_problemi\bin\Debug\Hatali_altin_problemi.exe
+C:\Users\beritan\Desktop\Hatali_altin_problemi\Hatali_altin_problemi\bin\Debug\Hatali_altin_problemi.pdb
+C:\Users\beritan\Desktop\Hatali_altin_problemi\Hatali_altin_problemi\obj\Debug\Hatali_altin_problemi.csprojResolveAssemblyReference.cache
+C:\Users\beritan\Desktop\Hatali_altin_problemi\Hatali_altin_problemi\obj\Debug\Hatali_altin_problemi.Form1.resources
+C:\Users\beritan\Desktop\Hatali_altin_problemi\Hatali_altin_problemi\obj\Debug\Hatali_altin_problemi.Properties.Resources.resources
+C:\Users\beritan\Desktop\Hatali_altin_problemi\Hatali_altin_problemi\obj\Debug\Hatali_altin_problemi.csproj.GenerateResource.Cache
+C:\Users\yakup\Desktop\Ödev (1)\Hatali_altin_problemi\Hatali_altin_problemi\bin\Debug\Hatali_altin_problemi.exe.config
+C:\Users\yakup\Desktop\Ödev (1)\Hatali_altin_problemi\Hatali_altin_problemi\obj\Debug\Hatali_altin_problemi.exe
+C:\Users\yakup\Desktop\Ödev (1)\Hatali_altin_problemi\Hatali_altin_problemi\obj\Debug\Hatali_altin_problemi.pdb
